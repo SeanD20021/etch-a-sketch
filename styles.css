@@ -1,0 +1,27 @@
+#canvas {
+    border-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1 / 1;
+    max-width: 50%;
+    max-height:max-content;
+    border: 2px solid black;
+    
+}
+
+.squares { 
+    
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    aspect-ratio: 1 / 1;
+    width: 6%;
+    
+    /*height: 35px ;   */
+    flex: auto;   
+    
+}
+
